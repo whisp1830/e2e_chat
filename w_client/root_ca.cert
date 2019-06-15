@@ -1,0 +1,19 @@
+-----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyjQMagPj2fOyRkKkjewZ
+zMHb8fKpx7hlfJ8Q/iFz7cxCSj+8CrtipRSDbMMilppaYd6yBd1cKE35CPQuGLpf
+zZoQGJZLd+FQ3dSHAKcmxbIgqrl6Dcp4EjKPYdgOlSkmnQeLzUoCeEHnB2kVjQ9T
+cgq6+HjKNUpmA+aIDREs1dQwSspqlSwniU7JcVsQeY3fQWe+NnMsb0Oz4WqHs3l8
+hTQ5DwdE9zSNl9z2rcjw8QrolDEewETifRoXGbrOgRWOWfuN8sfjCBcEw5hvaHT6
+Yx/wwexO7uGUdaDSc0dNFrN7xLbAZSbvNF5WJwpLCiQMjG1PtxKwKv++fnu2qUjF
+lwIDAQAB
+-----END PUBLIC KEY-----
+name:whispchan
+org:whispchan
+ca_name:root
+ca_org:root
+hash:sha-256
+encrypt:rsa
+signature:
+-----START SIGNATURE-----
+XoRnkOUWqFnMGYm8uxmAbG6vxiTw2IEgmdg72YcAKC0ZSFihFbO18BqJRTUeWhsfQ9BNhz0dJT/VPj37RrWyVSTsn7clbGvH0jzzMAVVXkd+LBdlNImEEFSN9cKrR8DccXMrY4Wjvc65l3R0qfY+O5298KZpUnpsYpnq2sCVKOGvY6FqfDdgWouezCig/Z0uiv0GexuULCysGGrwpt537XnzaUb6iMokAZged8gSyELnw6I5gpM9tOaZe0yvekcuT2S6e0zNbvICSPl7y894DvhDg+J0eAHauVKENf14uixvEfFkbWN+NzFNbVHRedEofr/G4eb69N9ulQjYwgJXgg==
+-----END SIGNATURE-----
